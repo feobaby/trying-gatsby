@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Simonetta&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css?family=Handlee&display=swap" rel="stylesheet');
+
+.box {
+    width: 700px;
+    border: 0.1px solid grey;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 0 auto;
+    height: 200px;
+    line-height: 1;
+    float: right;
+}
+
+.title {
+    font-family: 'Handlee';
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: black;
+    border-width: 2px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.details {
+    font-size: 0.8em;
+}
+
+.date {
+    font-size: 0.5em;
+}
+
